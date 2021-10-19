@@ -1,0 +1,4 @@
+app_name = plane_strain_thermal_expansion
+allow_warnings = false
+allow_unused = false
+allow_override = false
